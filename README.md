@@ -18,6 +18,3 @@ The difficult part was understanding which part to attach to the bone. I often d
 
 The rest of the task was pretty easy and straightforward
 
-## AI Usage
-
-I used Claude (Anthropic) for step-by-step Blender rigging instructions. The rigging in Blender was done by me.
